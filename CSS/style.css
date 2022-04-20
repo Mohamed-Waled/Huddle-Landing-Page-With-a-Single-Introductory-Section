@@ -14,7 +14,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     background-color: var(--background-color);
-    background-image: url(/images/bg-desktop.svg);
+    background-image: url("../images/bg-desktop.svg");
 }
 
 .background {
@@ -106,7 +106,7 @@ footer a {
 
 @media (max-width: 1025px) {
     body {
-        background-image: url(/images/bg-desktop.svg);
+        background-image: url("../images/bg-desktop.svg");
     }
 
     .logo img {
@@ -129,7 +129,7 @@ footer a {
 
 @media (max-width: 769px) {
     body {
-        background-image: url(/images/bg-desktop.svg);
+        background-image: url("../images/bg-desktop.svg");
     }
     
     .logo img {
@@ -163,7 +163,7 @@ footer a {
 
 @media (max-width: 426px) {
     body {
-        background-image: url(/images/bg-mobile.svg);
+        background-image: url("../images/bg-mobile.svg");
         background-repeat: no-repeat;
     }
     

@@ -15,13 +15,13 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![]()
-![]()
+![](images/Screenshot%202022-04-20%20at%2022-14-05%20Frontend%20Mentor%20Huddle%20landing%20page%20with%20single%20introductory%20section.png)
+![](images/Screen%20Shot%202022-04-20%20at%2022.14.17.png)
 
 ### Links
 
 - Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Huddle-Landing-Page-With-a-Single-Introductory-Section/)
 
 ## My process
 
@@ -30,9 +30,10 @@ This is a solution to the [Huddle landing page with single introductory section 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Grid
-- Mobile First Strategy
 - CSS Media Queries
+- Bootstrap
+- FontAwesome
+- Normalize
 
 ## Author
 
