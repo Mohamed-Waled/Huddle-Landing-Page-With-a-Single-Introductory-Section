@@ -16,7 +16,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 ### Screenshot
 
 ![](images/Screenshot%202022-04-20%20at%2022-14-05%20Frontend%20Mentor%20Huddle%20landing%20page%20with%20single%20introductory%20section.png)
-![](images/Screen%20Shot%202022-04-20%20at%2022.14.17.png)
+![](images/Screenshot%202022-04-20%20at%2022-20-59%20Frontend%20Mentor%20Huddle%20landing%20page%20with%20single%20introductory%20section.png)
 
 ### Links
 
