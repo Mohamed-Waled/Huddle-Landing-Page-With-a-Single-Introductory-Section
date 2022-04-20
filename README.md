@@ -33,7 +33,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 - CSS Media Queries
 - Bootstrap
 - FontAwesome
-- Normalize
 
 ## Author
 
